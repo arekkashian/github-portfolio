@@ -1,6 +1,6 @@
 # Lab 01: Infrastructure Audit
-**Name:** [YOUR NAME]
-**Date:** [TODAY'S DATE]
+**Name:** Arek Kashian
+**Date:** Jan 26, 2026
 **Status:** Completed
 
 ## 🎯 Objective
